@@ -1,2 +1,2 @@
 # main 
-# BorderHacks Winner project.
+# BorderHacks winner project.
